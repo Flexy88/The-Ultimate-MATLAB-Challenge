@@ -13,4 +13,4 @@ d.	Insert the grid
 
 # RESULTS.
   
-  ![Alt Text](https://github.com/Flexy88/The-Ultimate-MATLAB-Challenge/blob/main/rotor%20angle%20against%20time.fig)
+ ![Alt text](https://github.com/Flexy88/The-Ultimate-MATLAB-Challenge/blob/main/rotor%20angle%20against%20time.fig)
